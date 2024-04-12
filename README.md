@@ -1,61 +1,54 @@
-![Picture](https://krita.org/images/krita-logo-light.svg)
-
-| CI Name     | Master | Stable | Release |
-| ------------------- | ---------------- | ------ | ------- |
-| Pipeline | [![pipeline status](https://invent.kde.org/graphics/krita/badges/master/pipeline.svg)](https://invent.kde.org/graphics/krita/-/commits/master) | [![pipeline status](https://invent.kde.org/graphics/krita/badges/krita/5.2/pipeline.svg)](https://invent.kde.org/graphics/krita/-/commits/krita/5.2) | [![Latest Release](https://invent.kde.org/graphics/krita/-/badges/release.svg)](https://invent.kde.org/graphics/krita/-/releases) |
-
-Note: Nightly builds are not covered by this table atm
-
-Krita is a free and open source digital painting application. It is for artists who want to create professional work from start to end. Krita is used by comic book artists, illustrators, concept artists, matte and texture painters and in the digital VFX industry.
-
-If you are reading this on GitHub, be aware that this is just a mirror. Our real code repository is provided by KDE: https://invent.kde.org/graphics/krita.git
-
-![Picture](https://krita.org/images/hero-image-50.webp)
-
-
-### User Manual
-https://docs.krita.org/en/user_manual.html
-
-### Development Notes and Build Instructions
-
-Please follow [the online documentation](https://docs.krita.org/en/untranslatable_pages/building_krita.html).
-
-Other developer guides, notes and wiki:
-
-https://docs.krita.org/en/untranslatable_pages.html
-
-Apidox:
-
-https://api.kde.org/krita/html/index.html
-
-### Bugs and Wishes
-
-https://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1315444&product=krita&query_format=advanced
-
-### Discussion Forum
-
-* https://krita-artists.org/
-
-### IRC channel
-
-Most of the developers hang out here. If you are interested in helping with the project this is a great place to start.
-
-libera.chat, #krita
-
-### Project Website
-
-https://www.krita.org
-
-### Nightly builds
-
-#### Unstable
-
-* https://cdn.kde.org/ci-builds/graphics/krita/master/
-
-#### Stable
-
-* https://cdn.kde.org/ci-builds/graphics/krita/krita/5.2/
-
-### License
-
-Krita as a whole is licensed under the GNU Public License, Version 3. Individual files may have a different, but compatible license.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8eab2d828a34d95c309b00c1e8d3c64c1bc1cb892aa6b76eb112f36bd841b177/68747470733a2f2f6b726974612e6f72672f696d616765732f6b726974612d6c6f676f2d6c696768742e737667"><img src="https://camo.githubusercontent.com/8eab2d828a34d95c309b00c1e8d3c64c1bc1cb892aa6b76eb112f36bd841b177/68747470733a2f2f6b726974612e6f72672f696d616765732f6b726974612d6c6f676f2d6c696768742e737667" alt="图片" data-canonical-src="https://krita.org/images/krita-logo-light.svg" style="max-width: 100%;"></a></p>
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置项名称</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">掌握</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">稳定的</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管道</font></font></td>
+<td><a href="https://invent.kde.org/graphics/krita/-/commits/master" rel="nofollow"><img src="https://camo.githubusercontent.com/ba08ac9e964e972b35cebbe29a95d71f171a1087ccdbe78c5f6bfa70d2160a89/68747470733a2f2f696e76656e742e6b64652e6f72672f67726170686963732f6b726974612f6261646765732f6d61737465722f706970656c696e652e737667" alt="管道状态" data-canonical-src="https://invent.kde.org/graphics/krita/badges/master/pipeline.svg" style="max-width: 100%;"></a></td>
+<td><a href="https://invent.kde.org/graphics/krita/-/commits/krita/5.2" rel="nofollow"><img src="https://camo.githubusercontent.com/f8fd4d684ef4c6b7ccad15ff3d099a38cae85f998e80358310e8e36c31d40efb/68747470733a2f2f696e76656e742e6b64652e6f72672f67726170686963732f6b726974612f6261646765732f6b726974612f352e322f706970656c696e652e737667" alt="管道状态" data-canonical-src="https://invent.kde.org/graphics/krita/badges/krita/5.2/pipeline.svg" style="max-width: 100%;"></a></td>
+<td><a href="https://invent.kde.org/graphics/krita/-/releases" rel="nofollow"><img src="https://camo.githubusercontent.com/5fbfe274b9957a8acfa0acda5a6352da2edfdfd385b812b8ef532ca9040d6d3a/68747470733a2f2f696e76656e742e6b64652e6f72672f67726170686963732f6b726974612f2d2f6261646765732f72656c656173652e737667" alt="最新发布" data-canonical-src="https://invent.kde.org/graphics/krita/-/badges/release.svg" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：此表 atm 不涵盖夜间构建</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Krita 是一款免费开源数字绘画应用程序。它适合那些想要从头到尾创作专业作品的艺术家。 Krita 被漫画艺术家、插画家、概念艺术家、遮罩和纹理画家以及数字视觉特效行业使用。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在 GitHub 上阅读本文，请注意这只是一个镜像。我们真正的代码存储库由 KDE 提供：</font></font><a href="https://invent.kde.org/graphics/krita.git" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://invent.kde.org/graphics/krita.git</font></font></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f75591584eb32159e6aa76051ee6136b32f5df7b282ba6cfb16fc1c5a1d6a31/68747470733a2f2f6b726974612e6f72672f696d616765732f6865726f2d696d6167652d35302e77656270"><img src="https://camo.githubusercontent.com/9f75591584eb32159e6aa76051ee6136b32f5df7b282ba6cfb16fc1c5a1d6a31/68747470733a2f2f6b726974612e6f72672f696d616765732f6865726f2d696d6167652d35302e77656270" alt="图片" data-canonical-src="https://krita.org/images/hero-image-50.webp" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户手册</font></font></h3><a id="user-content-user-manual" class="anchor" aria-label="永久链接：用户手册" href="#user-manual"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://docs.krita.org/en/user_manual.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://docs.krita.org/en/user_manual.html</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发说明和构建说明</font></font></h3><a id="user-content-development-notes-and-build-instructions" class="anchor" aria-label="永久链接：开发说明和构建说明" href="#development-notes-and-build-instructions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请遵循</font></font><a href="https://docs.krita.org/en/untranslatable_pages/building_krita.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他开发者指南、注释和 wiki：</font></font></p>
+<p dir="auto"><a href="https://docs.krita.org/en/untranslatable_pages.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://docs.krita.org/en/untranslatable_pages.html</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿匹多克斯：</font></font></p>
+<p dir="auto"><a href="https://api.kde.org/krita/html/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://api.kde.org/krita/html/index.html</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误和愿望</font></font></h3><a id="user-content-bugs-and-wishes" class="anchor" aria-label="永久链接：错误和愿望" href="#bugs-and-wishes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=CONFIRMED&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;list_id=1315444&amp;product=krita&amp;query_format=advanced" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=CONFIRMED&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;list_id=1315444&amp;product=krita&amp;query_format=advanced</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></h3><a id="user-content-discussion-forum" class="anchor" aria-label="永久链接：讨论论坛" href="#discussion-forum"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://krita-artists.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://krita-artists.org/</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IRC频道</font></font></h3><a id="user-content-irc-channel" class="anchor" aria-label="永久链接：IRC 频道" href="#irc-channel"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大多数开发人员都在这里闲逛。如果您有兴趣帮助该项目，这是一个很好的起点。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">libera.chat，#krita</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目网站</font></font></h3><a id="user-content-project-website" class="anchor" aria-label="永久链接：项目网站" href="#project-website"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://www.krita.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.krita.org</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每晚构建</font></font></h3><a id="user-content-nightly-builds" class="anchor" aria-label="永久链接：每晚构建" href="#nightly-builds"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不稳定</font></font></h4><a id="user-content-unstable" class="anchor" aria-label="永久链接：不稳定" href="#unstable"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://cdn.kde.org/ci-builds/graphics/krita/master/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://cdn.kde.org/ci-builds/graphics/krita/master/</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">稳定的</font></font></h4><a id="user-content-stable" class="anchor" aria-label="永久链接：稳定" href="#stable"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://cdn.kde.org/ci-builds/graphics/krita/krita/5.2/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://cdn.kde.org/ci-builds/graphics/krita/krita/5.2/</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h3><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Krita 作为一个整体是根据 GNU 公共许可证版本 3 获得许可的。各个文件可能具有不同但兼容的许可证。</font></font></p>
+</article></div>
